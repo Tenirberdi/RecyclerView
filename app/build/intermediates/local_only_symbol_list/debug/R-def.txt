@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+array names
+array roles
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable doctor1
+drawable doctor10
+drawable doctor11
+drawable doctor2
+drawable doctor3
+drawable doctor4
+drawable doctor5
+drawable doctor6
+drawable doctor7
+drawable doctor8
+drawable doctor9
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable phone
+font poppinsmedium
+id img_doctor
+id phoneCall
+id rv_doctors
+id tv_name
+id tv_role
+layout activity_main
+layout doctor_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.RecyclerView
